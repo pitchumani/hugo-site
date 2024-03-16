@@ -14,7 +14,7 @@ author = "Pitchumani Sivanupandi"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "My personal website"
 keywords = "blog,developer,personal"
-info = ["System Software Engineer"]
+info = ["Software Engineer"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"

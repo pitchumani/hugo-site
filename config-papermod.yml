@@ -1,0 +1,37 @@
+title: Pitchumani
+theme: [PaperMod]
+
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 15
+    - name: Blogs
+      url: posts/
+      weight: 10
+    - name: About
+      url: about
+      weight: 5
+
+params:
+  profileMode:
+    enabled: true
+    title: Pitchumani Sivanupandi
+    imageUrl: images/avatar.jpg
+    imageTitle: 
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: Blogs
+        url: posts
+      - name: Tags
+        url: tags
+  ShowPostNavLinks: true
+  socialIcons:
+    - name: github
+      url: "https://github.com/pitchumani/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/pitchumanis/"
+    - name: strava
+      url: "https://www.strava.com/athletes/26709070"
+

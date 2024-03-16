@@ -1,12 +1,12 @@
 +++
 title = 'Pitchumani Sivanupandi'
-description = "About me"
 date = 2024-03-14T21:25:49+05:30
 author = "Pitchumani Sivanupandi"
 +++
+<div "text-align: right">s.pitchumani@gmail.com</div>
 I'm Pitchumani, System software (Compiler toolchains) developer by profession.
 
-Work Experience
+# Work Experience
 ---------------
 **Intel Corporation - Bangalore**
 *August 2021 — Present*
@@ -36,7 +36,7 @@ Work Experience
 
 : Worked in C19A (C cross compiler for Toshiba’s Tx19A processor) compiler team. Involved in testing, defect fix and features implementation. Also worked for a static memory analyzer tool which analyzes the ELF and COFF object files and reports the symbol information, stack utilization and functions call graph.
 
-Education
+# Education
 ---------
 2001 — 2005
 : **National Engineering College, Anna University**
