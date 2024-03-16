@@ -2,7 +2,6 @@
 title = 'Pitchumani Sivanupandi'
 date = 2024-03-14T21:25:49+05:30
 author = "Pitchumani Sivanupandi"
-url = "hugo-site/about"
 +++
 <div "text-align: right">s.pitchumani@gmail.com</div>
 I'm Pitchumani, System software (Compiler toolchains) developer by profession.
