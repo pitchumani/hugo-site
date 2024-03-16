@@ -12,7 +12,7 @@ series = []
 Hello World!
 
 This is my first post in this site. As seen in the footer of the web,
-this site is built using hugo (coder theme).
+this site is built using hugo.
 
 **Generating content**
 

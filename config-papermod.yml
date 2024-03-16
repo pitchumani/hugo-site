@@ -18,6 +18,7 @@ params:
   profileMode:
     enabled: true
     title: Pitchumani Sivanupandi
+    subtitle: Software Engineer
     imageUrl: images/avatar.jpg
     imageTitle: 
     imageWidth: 120
