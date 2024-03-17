@@ -1,14 +1,11 @@
 ---
-authors: []
-categories: []
+title: Hugo and Github Pages for Website
+authors:
+  - Pitchumani
 date: "2024-03-16T12:20:16+05:30"
-description: ""
-draft: false
-externalLink: ""
-series: []
-slug: ""
-tags: []
-title: Hugo and Github for Website
+tags:
+  - hugo
+  - github pages
 ---
 
 Hugo's [quick-start](https://gohugo.io/getting-started/quick-start/)

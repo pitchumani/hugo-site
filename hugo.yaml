@@ -37,3 +37,6 @@ params:
     - name: strava
       url: "https://www.strava.com/athletes/26709070"
 
+services:
+  googleAnalytics:
+    ID: G-9N0Y6DB4W5

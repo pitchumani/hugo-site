@@ -1,7 +1,6 @@
 ---
 authors:
 - Pitchumani
-categories: []
 date: "2024-03-14T22:11:12+05:30"
 description: ""
 externalLink: ""
@@ -10,7 +9,6 @@ slug: ""
 tags: []
 title: Hello World!
 ---
-Hello World!
 
 This is my first post in this site.
 
@@ -23,3 +21,4 @@ content with my virtual machine I had in Google cloud.
 This time, I wish to start with static site generators to create website and
 spend more time in writing content. I hope to write more content in this website
 as blog posts.
+
