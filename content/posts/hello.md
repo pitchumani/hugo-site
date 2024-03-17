@@ -1,14 +1,15 @@
-+++
-authors = ['Pitchumani']
-categories = []
-date = '2024-03-14T22:11:12+05:30'
-description = ''
-externalLink = ''
-series = []
-slug = ''
-tags = []
-title = 'Hello World!'
-+++
+---
+authors:
+- Pitchumani
+categories: []
+date: "2024-03-14T22:11:12+05:30"
+description: ""
+externalLink: ""
+series: []
+slug: ""
+tags: []
+title: Hello World!
+---
 Hello World!
 
 This is my first post in this site.
@@ -22,23 +23,3 @@ content with my virtual machine I had in Google cloud.
 This time, I wish to start with static site generators to create website and
 spend more time in writing content. I hope to write more content in this website
 as blog posts.
-
-I'll share m
-
-I have my own website and write
-As seen in the footer of the web,
-this site is built using hugo.
-
-**Generating content**
-
-I wished to develop my personal website on my own. But I felt it was
-overwhelming to design and customize the pages in everchanging web
-developments. So, I chose to use static site generators with themes.
-I liked Hugo and its themes. I referred few articles to get started
-with hugo to generate this static site. Hugo's
-[quick-start](https://gohugo.io/getting-started/quick-start/)
-and instructions in the themes page was useful.
-
-**Publishing the website**
-
-Publishing this site using github [pages](https://pages.github.com/).

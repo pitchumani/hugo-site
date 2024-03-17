@@ -1,8 +1,8 @@
-+++
-author = 'Pitchumani Sivanupandi'
-date = '2024-03-14T21:25:49+05:30'
-title = 'Pitchumani Sivanupandi'
-+++
+---
+author: Pitchumani Sivanupandi
+date: "2024-03-14T21:25:49+05:30"
+title: Pitchumani Sivanupandi
+---
 <div "text-align: right">s.pitchumani@gmail.com</div>
 I'm Pitchumani, System software (Compiler toolchains) developer by profession.
 
