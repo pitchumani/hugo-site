@@ -1,14 +1,14 @@
-+++ 
-draft = false
-date = 2024-03-16T12:20:16+05:30
-title = "Hugo and Github for Website"
-description = ""
-slug = ""
++++
 authors = []
-tags = []
 categories = []
-externalLink = ""
+date = '2024-03-16T12:20:16+05:30'
+description = ''
+draft = false
+externalLink = ''
 series = []
+slug = ''
+tags = []
+title = 'Hugo and Github for Website'
 +++
 
 Hugo's [quick-start](https://gohugo.io/getting-started/quick-start/)
